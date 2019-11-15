@@ -15,4 +15,4 @@ Choose you weapon wisely!
 
 Built with Python 3
 
-Derpy Derp Derp!
+Claire Sykes
